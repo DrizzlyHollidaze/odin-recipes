@@ -1,0 +1,47 @@
+/* s tyles.css */
+html {
+    background-color:black;
+}
+h1 {
+    color:azure;
+    font-family:Arial, Helvetica, sans-serif
+}
+p {
+    color:white;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+a {
+    text-decoration:none;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+a:link {
+    color:white;
+}
+a:visited {
+    color:grey;
+}
+a:hover {
+    color:lightblue;
+}
+div.recipe {
+    color:white;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+div.wrapper {
+    max-width: 500px;
+    margin:auto;
+    text-align: center;
+}
+ul {
+    display:inline-block;
+    text-align: left;
+}
+ol {
+    display:inline-block;
+    text-align: left;
+}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
